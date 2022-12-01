@@ -1,0 +1,12 @@
+{"intents":[
+    {
+        "tag":"saudacao",
+        "patterns": ["Ola!! Como voce esta?", "Tem alguem ai?", "Oie", "Alo", "Ola"],
+        "responses": ["Ola, obrigado por perguntar", "Ola, que bom ver voce", "Ola, como posso ajudar?"]
+    },
+    {
+        "tag":"despedida",
+        "patterns": ["Ate mais!", "Tchau", "Falow", "Adeus"],
+        "responses": ["Nos vemos numa proxima", "Tenha um otimo dia", "Tchau, volte logo!"]
+    }
+]}
